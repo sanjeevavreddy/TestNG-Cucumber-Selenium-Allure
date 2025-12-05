@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>TestNG-Cucumber-DemoQA</artifactId>
+    <artifactId>TestNG-Cucumber-Selenium-Allure</artifactId>
     <version>1.0-SNAPSHOT</version>
 
 
